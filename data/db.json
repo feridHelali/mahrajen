@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Mahrajan El Medina Tunis",
+      "start_date": "0101/2020",
+      "end_date": "06/01/2020",
+      "description": "Ayam Rabbi",
+      "cover": "https://i0.wp.com/www.webdo.tn/wp-content/uploads/2019/05/mah.jpg?w=660",
+      "organiser": 1,
+      "catergory": 1
+    },
+    {
+      "title": "Mahrajan Gaboudia",
+      "start_date": "01/01/2020",
+      "end_date": "06/02/2020",
+      "description": "Ayam Rabbi",
+      "cover": "https://i0.wp.com/www.webdo.tn/wp-content/uploads/2019/05/mah.jpg?w=660",
+      "organiser": 1,
+      "catergory": 1,
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "festival"
+    }
+  ],
+  "orgoniser": [
+    {
+      "id": 1,
+      "name": "Miunicipalité de Tunis"
+    }
+  ]
+}
